@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@700&family=Archivo:wght@700&family=Kalam:wght@400;700&display=swap');
+
+.archivo700{
+    font-family: 'Archivo', sans-serif;
+    font-weight: 700;
+}
+
+h1{
+    font-family: 'Archivo ', sans-serif;
+    font-size: 5rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+
+}
+
+h2,h3{
+    font-family: 'Kalam';
+    font-weight: 700;
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+}
+
+.bg-orange-subtle{
+    background-color: #ffbe4b;
+}
+
+.bg-green{
+    background-color: forestgreen;
+}
+
+.bg-green-subtle{
+    background-color: #60cb60;
+}
+
+.container{
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+
+}
+
